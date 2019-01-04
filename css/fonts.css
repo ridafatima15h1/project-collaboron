@@ -1,0 +1,34 @@
+@font-face {
+    font-family: Biryani-Black;
+    src: url(../fonts/Biryani-Black.ttf);
+  }
+
+  @font-face {
+    font-family: Biryani-Bold;
+    src: url(../fonts/Biryani-Bold.ttf);
+  }
+
+  @font-face {
+    font-family: Biryani-ExtraBold;
+    src: url(../fonts/Biryani-ExtraBold.ttf);
+  }
+
+  @font-face {
+    font-family: Biryani-ExtraLight;
+    src: url(../fonts/Biryani-ExtraLight.ttf);
+  }
+
+  @font-face {
+    font-family: Biryani-Light;
+    src: url(../fonts/Biryani-Light.ttf);
+  }
+
+  @font-face {
+    font-family: Biryani-Regular;
+    src: url(../fonts/Biryani-Regular.ttf);
+  }
+
+  @font-face {
+    font-family: Biryani-SemiBold;
+    src: url(../fonts/Biryani-SemiBold.ttf);
+  }
